@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .app{
-  /* border: 2px solid red; */
+  background-color: #c1d6f7;
   display: flex;
   width: 100vw;
   height: 100vh;
