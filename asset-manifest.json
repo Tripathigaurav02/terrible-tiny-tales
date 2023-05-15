@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/terrible-tiny-tales/static/css/main.80b7e618.css",
+    "main.js": "/terrible-tiny-tales/static/js/main.2acd3683.js",
+    "static/js/787.063af766.chunk.js": "/terrible-tiny-tales/static/js/787.063af766.chunk.js",
+    "index.html": "/terrible-tiny-tales/index.html",
+    "main.80b7e618.css.map": "/terrible-tiny-tales/static/css/main.80b7e618.css.map",
+    "main.2acd3683.js.map": "/terrible-tiny-tales/static/js/main.2acd3683.js.map",
+    "787.063af766.chunk.js.map": "/terrible-tiny-tales/static/js/787.063af766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b7e618.css",
+    "static/js/main.2acd3683.js"
+  ]
+}
